@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@types/crypto-js": "^4.2.2",
+    "hardhat": "2.21.0",
+    "hardhat-abi-exporter": "^2.10.1",
+    "undici": ">=5.28.4"
+  },
+  "dependencies": {
+    "@pinata/ipfs-gateway-tools": "^1.3.0",
+    "crypto-js": "4.2.0",
+    "dotenv": "16.4.5",
+    "ijavascript": "^5.2.1",
+    "undici": ">=5.28.4",
+    "axios" : "^1.6.8"
+  }
+}
