@@ -149,6 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 For any questions or concerns, please open an issue in this repository or contact the project maintainers:
 
-- Elena Popova - [elena.popova@example.com](mailto:elena.popova@example.com)
-- Alberto Rodriguez - [alberto.rodriguez@example.com](mailto:alberto.rodriguez@example.com)
-- Mihail Beshkov - [mihail.beshkov@example.com](mailto:mihail.beshkov@example.com)
+- Elena Popova
+- Alberto Rodriguez
+- Mihail Beshkov 
